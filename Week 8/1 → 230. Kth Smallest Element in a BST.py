@@ -31,7 +31,7 @@ class Solution:
         ret = []
         def dfs(node):
             if not node:
-                return 0
+                return 
 
             dfs(node.left)
             if len(ret) == k:
