@@ -11,4 +11,4 @@ Some LC answers for [Grind 75](https://www.techinterviewhandbook.org/grind75) in
 | 5    | 🟩         | Medium        | [Week 5](https://github.com/Cabonilla/grind75/tree/master/Week%205) |
 | 6    | 🟩         | Medium        | [Week 6](https://github.com/Cabonilla/grind75/tree/master/Week%206) |
 | 7    | 🟩         | Medium        | [Week 7](https://github.com/Cabonilla/grind75/tree/master/Week%207) |
-| 8    | 🟥         | Medium / Hard | [Week 8](https://github.com/Cabonilla/grind75/tree/master/Week%208) |
+| 8    | 🟨         | Medium / Hard | [Week 8](https://github.com/Cabonilla/grind75/tree/master/Week%208) |
